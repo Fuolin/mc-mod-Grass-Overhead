@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId = "grassoverhead"
+version = "1.0.0"
+displayName="Structure Builder"
+authors="JinYi"
+description="add grass over head !"
+
+[[dependencies.grassoverhead]]
+modId = "neoforge"
+versionRange = "[21,)"
+mandatory = true

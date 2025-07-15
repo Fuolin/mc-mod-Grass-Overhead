@@ -1,0 +1,6 @@
+#The block type to render above players (e.g. minecraft:grass_block, minecraft:diamond_block)
+blockType = "minecraft:bamboo"
+#Vertical offset above players' heads
+# Default: 0.5
+# Range: 0 ~ 5.0
+heightOffset = 0.5
